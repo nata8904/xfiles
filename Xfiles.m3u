@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF: CAPÍTULO 1_TEMPORADA 1, tvg-logo= “https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-1.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 1
+#EXTINF: CAPÍTULO 1_TEMPORADA 1, tvg-logo=“https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-1.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 1
 https://cloud-s9636-107-117.spcdn.cc/h75dsfkeflekalhulmxtc4wmcq6qtmyibzbwboy3pljl4vhvu7u5q4pnd2iq/v.mp4
 
-#EXTINF: CAPÍTULO 2_TEMPORADA 1, tvg-logo= “https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-2.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 2
+#EXTINF: CAPÍTULO 2_TEMPORADA 1, tvg-logo=“https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-2.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 2
 https://cloud-s8436-107-124.spcdn.cc/h75a2k2eflekalhulmxtcm6cjxhlh5gagislq4efxf3zujqdwsnv6mrsb35q/v.mp4
 
-#EXTINF: CAPÍTULO 3_TEMPORADA 1, tvg-logo= “https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-3.jpg, group-title="TEMPORADA 1": XFILES CAPÍTULO 3
+#EXTINF: CAPÍTULO 3_TEMPORADA 1, tvg-logo=“https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-3.jpg", group-title="TEMPORADA 1": XFILES CAPÍTULO 3
 https://cloud-s8436-107-124.spcdn.cc/h75ayjseflekalhulmxtcp4qdi3ez7uazdsc22p6ilctprhrg2luidbjeauq/v.mp4
