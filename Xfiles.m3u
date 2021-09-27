@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF: -1, tvg-logo= “https://hdfull.so/poster/series/the-x-files.jpg”, USA: XFILES TEMPORADA 1
-https://stream-7236-107-113.pvdcdn.co/guod4jsbl4ikkfn2mdmp4jy2hc2b5ru7syizcvkipwg7oscg53hyw4ndi4/v.mp
+#EXTINF: -1, tvg-logo= “https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-1.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 1
+https://cloud-s9636-107-117.spcdn.cc/h75dsfkeflekalhulmxtc4wmcq6qtmyibzbwboy3pljl4vhvu7u5q4pnd2iq/v.mp4
+
+#EXTINF: -1, tvg-logo= “https://hdfull.so/poster/episode-cover/the-x-files-season-1-episode-2.jpg”, group-title="TEMPORADA 1": XFILES CAPÍTULO 2
+https://cloud-s8436-107-124.spcdn.cc/h75a2k2eflekalhulmxtcm6cjxhlh5gagislq4efxf3zujqdwsnv6mrsb35q/v.mp4
